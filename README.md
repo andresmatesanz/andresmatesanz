@@ -75,7 +75,7 @@ Pipeline de regresión/clasificación con EDA, preprocesado y validación.
 
 ## 📫 Contacto
 
-- **LinkedIn:** www.linkedin.com/in/andrés-matesanz-de-la-calle-542b62304
+- **LinkedIn:** www.linkedin.com/in/andresmatesanz
 - **Email:** andresmatesanzdelacalle@gmail.com  
 
 ---
