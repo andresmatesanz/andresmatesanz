@@ -45,22 +45,19 @@ Mi objetivo es desarrollar mi carrera profesional como **Data Analyst / Data Eng
 
 ---
 
-## 📚 Proyectos destacados (en construcción)
+## 📚 Proyectos destacados
 
-🔧 **Analizador de Datos Públicos en JSON**  
-Procesamiento, limpieza y análisis de datos meteorológicos usando Python.  
-→ *Disponible próximamente*
+🔧 Analizador de Datos de Spotify (analizador-spotify-json)
+Análisis exploratorio de un dataset de canciones de Spotify, transformando datos en insights visuales y métricas. Incluye notebooks en Python con Pandas y Matplotlib, siguiendo buenas prácticas de Git y creación de portfolio profesional.
+→ Repositorio
 
-🔧 **Mini-ETL con Python + SQL**  
-Pipeline ETL desde datos crudos hasta carga en base de datos (PostgreSQL).
+🔧 Análisis de Calidad del Aire en Madrid (sql-air-pollution-analysis)
+Proyecto de análisis de datos históricos de contaminación del aire en Madrid. Uso de SQL avanzado para extracción, limpieza y agregación de datos, con resultados en CSV documentados y reproducibles.
+→ Repositorio
 
-📊 **Dashboard BI con dataset público**  
-Exploración, preparación y dashboard interactivo en Power BI.
-
-🤖 **Modelo ML básico (Titanic / Housing Prices)**  
-Pipeline de regresión/clasificación con EDA, preprocesado y validación.
-
-*(Los enlazaré aquí cuando los suba)*
+🤖 Titanic Data Cleaning & Feature Engineering (titanic-data-cleaning)
+Pipeline completo de análisis, limpieza y transformación de datos del dataset del Titanic con Python y pandas. Incluye feature engineering, métricas personalizadas y dataset final limpio listo para análisis posteriores.
+→ Repositorio
 
 ---
 
