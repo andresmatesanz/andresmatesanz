@@ -52,15 +52,18 @@ Análisis exploratorio de un dataset de canciones de Spotify, transformando dato
 
 → [Repositorio](https://github.com/andresmatesanz/analizador-spotify-json.git)
 
+
 ### 🌫️ Análisis de Calidad del Aire en Madrid (sql-air-pollution-analysis)
 Proyecto de análisis de datos históricos de contaminación del aire en Madrid. Uso de SQL avanzado para extracción, limpieza y agregación de datos, con resultados en CSV documentados y reproducibles.
 
 → [Repositorio](https://github.com/andresmatesanz/sql-air-pollution-analysis.git)
 
+
 ### 🛳️ Titanic Data Cleaning & Feature Engineering (titanic-data-cleaning)
 Pipeline completo de análisis, limpieza y transformación de datos del dataset del Titanic con Python y pandas. Incluye feature engineering, métricas personalizadas y dataset final limpio listo para análisis posteriores.
 
 → [Repositorio](https://github.com/andresmatesanz/titanic-data-cleaning.git)
+
 
 ---
 
