@@ -41,7 +41,6 @@ Mi objetivo es desarrollar mi carrera profesional como **Data Analyst / Data Eng
 - Árboles de decisión y Random Forest  
 - Clustering  
 - Reducción de dimensionalidad  
-- Procesado de imágenes (TFG)
 
 ---
 
